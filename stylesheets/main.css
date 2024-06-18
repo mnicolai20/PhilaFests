@@ -1,0 +1,59 @@
+/*CSS for header*/
+.header{
+    display: flex;
+    align-content: flex-start;
+    justify-content: space-between;
+    background-color: #1f2937;
+    padding-top: 5px;
+}
+
+.festLogo{
+    flex: 3;
+    margin-left: 200px;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+.links{
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.linkGroup{
+    margin-right: 300px;
+}
+
+h2,
+.introDesc,
+.links{
+    color: white;
+}
+
+
+/*CSS for lowerHead*/
+
+.lowerHead{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    background-color: #1f2937;
+    padding-bottom: 30px;
+}
+
+.headerStack{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.love{
+    width: 200px;
+    height: auto;
+}
+
+.contribute{
+    width: 75px;
+}
