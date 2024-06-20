@@ -57,3 +57,20 @@ h2,
 .contribute{
     width: 75px;
 }
+
+.festpics{
+    width: 80px;
+    height: 75px;
+}
+
+.featured{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.upper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
