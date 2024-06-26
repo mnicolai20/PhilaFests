@@ -132,4 +132,5 @@ h2,
     width: 75px;
     height: 25px;
     background-image: linear-gradient(to top, lightblue, white);
+    flex-shrink: 0;
 }
