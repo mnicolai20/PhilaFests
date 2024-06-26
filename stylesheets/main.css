@@ -66,11 +66,24 @@ h2,
 .featured{
     display: flex;
     justify-content: center;
-    gap: 100px;
+    
 }
 
 .upper{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+/*CSS for featured section*/
+.f1,
+.f2,
+.f3,
+.f4{
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
     align-items: center;
 }
