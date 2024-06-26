@@ -87,3 +87,20 @@ h2,
     font-size: 12px;
     align-items: center;
 }
+
+.featured{
+    margin-bottom: 50px;
+}
+
+/*CSS for lower section*/
+.lower{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+#reference,
+#quote{
+    margin-right: 35%;
+}
